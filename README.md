@@ -5,8 +5,9 @@
 4. Now you can Execute the solution.cpp .
 
 # Approach and Algorithm
-we use **trie based approach**. because it is easy to visualize and effecient time complexity.
-**algorithm:**      
+we use **trie based approach**. because it is easy to visualize and effecient time complexity.        
+
+<u>**Algorithm:**<u>      
 step 1: Make the trie by reading character by character in whole words.     
 step 2: Initialize the first_ans and second_ans.      
 step 3: run wordBreak function for every words.        
